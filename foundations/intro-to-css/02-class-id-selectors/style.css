@@ -2,3 +2,15 @@ p {
     background-color: rgb(247, 76, 76);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.pic{
+    color: blue ;
+    font-size: 36px;
+}
+.content{
+    font-size: 24px ;
+}
+.nic{
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
